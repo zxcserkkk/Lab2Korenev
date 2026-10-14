@@ -28,7 +28,7 @@
 
 ### Блок-схема
 
-![Блок-схема, созданная в draw.io] ([Lab2 Diag.png](https://github.com/zxcserkkk/Lab2Korenev/blob/master/Lab2%20Diag.png))
+![Блок-схема, созданная в draw.io](Lab2 Diag.png)
 
 ## Реализация программы
 
