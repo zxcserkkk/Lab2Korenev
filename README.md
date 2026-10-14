@@ -28,7 +28,7 @@
 
 ### Блок-схема
 
-!([Lab2 Diag.png](https://github.com/zxcserkkk/Lab2Korenev/blob/master/Lab2%20Diag.png))
+![Lab2 Diag.png](https://github.com/zxcserkkk/Lab2Korenev/blob/master/Lab2%20Diag.png)
 
 ## Реализация программы
 
